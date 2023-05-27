@@ -1,0 +1,18 @@
+main{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: red;
+    top: 500px;
+    left: 500px;
+}
+label{
+    text-align: center;
+    color: blue;
+}
+
+center{
+    text-align: center;
+    color: red;
+}
